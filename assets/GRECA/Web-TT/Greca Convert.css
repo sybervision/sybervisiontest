@@ -1,0 +1,12 @@
+/* Webfont: Greca */@font-face {
+    font-family: 'Greca';
+    src: url('Greca Convert.eot'); /* IE9 Compat Modes */
+    src: url('Greca Convert.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Greca Convert.woff') format('woff'), /* Modern Browsers */
+         url('Greca Convert.woff2') format('woff2'), /* Modern Browsers */
+         url('Greca Convert.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
